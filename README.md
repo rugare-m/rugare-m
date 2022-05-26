@@ -2,7 +2,7 @@
 - 👀 I’m interested in genomics bioinformatics
 - 🌱 I’m currently learning Python and Bash
 - 💞️ I’m looking to collaborate on bioinformatics tool development 
-- 📫 Reach me on ... Twitter!
+- 📫 Reach me on ... LinkedIn @maruzanir!
 
 <!---
 rugare-m/rugare-m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
